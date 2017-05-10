@@ -1,0 +1,17 @@
+{
+  "name": "pluralsight-handlebars-starter-code",
+  "homepage": "https://github.com/ryanmurakami/pluralsight-handlebars-starter-code",
+  "authors": [
+    "Lawrence Bass <lawrence.bass@knexusresearch.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
